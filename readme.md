@@ -62,6 +62,10 @@ yarn knex:migrate:rollback  ou npm knex:migrate:rollback
 yarn dev:server
 ````
 
+#### Para testar as rotas:
+
+> Use o arquivo com o nome **insomnia_backend.json** importe para o insomnia e teste a aplicação com a rota /test => Test Application
+
 ### 📑 Licença
 
 Este projeto está sob a licença MIT. Veja aqui [Licença](LICENSE)
