@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/banner.png" alt="Next Level Week" />
+</p>
+
 # Semana Next Level Week - Backend Nodejs
 
 > backend do **Proffy Application** desenvolvido na NWL #02 da RocketSeat, em homenagem aos professores!
